@@ -13,18 +13,34 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 1. sudo /usr/bin/jetcon_clocks
 2. sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target-pwm'
 
+#젯슨나노에서 라즈베리카메라 사용하기
+링크 : https://jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/
+
+# 젯슨나노에서 파이썬 가상환경 만들기 && YOLOv8 사용하기
+첫번째 링크 : https://i7y.org/en/yolov8-on-jetson-nano/
+두번째 유튜브 링크 : https://www.youtube.com/watch?v=joAZEUbZZy8&list=PL0WeB24qp3wZ9DE5vSIBx_8FutKlyEUs1&index=23&t=1094s 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 @@기본 명령어@@
 1) nano(code) ~/.bashrc
 2) wifi IP 알아내기 = hostname -I
-
-
-
-
-
-
 
 
 @@ Visual studio code 라이브러리 @@
