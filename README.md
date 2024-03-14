@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 1. sudo jetson_clocks
 2. sudo sh -c 'echo 100 > /sys/devices/pwm-fan/target_pwm'
 
+# 젯슨나노에 vscode 설치하기 (Paul DeCarlo, github, ARM64 (Jetson Nano) 용)
+링크 : https://github.com/toolboc/vscode/releases
+
 #젯슨나노에서 라즈베리카메라 사용하기
 링크 : https://jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/
 
