@@ -1,4 +1,6 @@
 # JetsonNano
+update : sudo apt-get update, sudo apt-get upgrade or sudo apt-get dist-upgrade
+
 
 #젯슨나노 강의 유튜브 링크
 https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI1Jn
