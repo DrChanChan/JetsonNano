@@ -10,8 +10,8 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 4. 이미지 굽기 링크 - https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image
 
 # 쿨링 팬 동작
-1. sudo /usr/bin/jetcon_clocks
-2. sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target-pwm'
+1. sudo jetson_clocks
+2. sudo sh -c 'echo 100 > /sys/devices/pwm-fan/target_pwm'
 
 #젯슨나노에서 라즈베리카메라 사용하기
 링크 : https://jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/
