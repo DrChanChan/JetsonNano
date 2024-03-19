@@ -25,7 +25,11 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 첫번째 링크 : https://i7y.org/en/yolov8-on-jetson-nano/
 두번째 유튜브 링크 : https://www.youtube.com/watch?v=joAZEUbZZy8&list=PL0WeB24qp3wZ9DE5vSIBx_8FutKlyEUs1&index=23&t=1094s 
 
-
+# 젯슨나노 Coral USB 가속기 설치
+- pycoral 설치 :
+https://coral.ai/docs/accelerator/get-started/
+- 테스트 데이타가 없을경우 :
+git clone https://github.com/google-coral/test_data.git
 
 
 
