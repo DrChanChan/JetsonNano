@@ -33,12 +33,16 @@ git clone https://github.com/google-coral/test_data.git
 
 
 #젯슨나노에 yolo 사용하기
-1. 첫번째 방법 ultralyrics 메뉴얼 따르기 :
+1. 첫번째 방법 ultralyrics 메뉴얼 따르기 (pytorch 설치 방법 포함) :
 https://docs.ultralytics.com/ko/yolov5/tutorials/running_on_jetson_nano/#install-pytorch-and-torchvision
-
 2. 두번째 방법 CSI-Camera와 함께 사용:
 https://github.com/amirhosseinh77/JetsonYolo
+3. 세 번째 방법 youtube 링크:
+https://www.youtube.com/watch?v=keuYwbkZz7c
+4. 네 번째 방법 git clone ultralytics
 
+#젯슨나노에 opencv 설치 (velog)
+1. https://velog.io/@tilkoas35/Jetson-Nano-openCV-%EC%84%A4%EC%B9%98
 
 
 
