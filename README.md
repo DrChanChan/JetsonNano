@@ -32,7 +32,12 @@ https://coral.ai/docs/accelerator/get-started/
 git clone https://github.com/google-coral/test_data.git
 
 
+#젯슨나노에 yolo 사용하기
+1. 첫번째 방법 ultralyrics 메뉴얼 따르기 :
+https://docs.ultralytics.com/ko/yolov5/tutorials/running_on_jetson_nano/#install-pytorch-and-torchvision
 
+2. 두번째 방법 CSI-Camera와 함께 사용:
+https://github.com/amirhosseinh77/JetsonYolo
 
 
 
