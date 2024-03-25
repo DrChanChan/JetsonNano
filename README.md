@@ -11,12 +11,19 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 3. dc 전원 연결시 빼둬야 할 플라스틱 마개가 있음 ac는 그 반대
 4. 이미지 굽기 링크 - https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image
 
+5. jetpack SDK 이미지 - https://developer.nvidia.com/embedded/jetpack
+
 # 쿨링 팬 동작
 1. sudo jetson_clocks
 2. sudo sh -c 'echo 100 > /sys/devices/pwm-fan/target_pwm'
 
 # 젯슨나노에 vscode 설치하기 (Paul DeCarlo, github, ARM64 (Jetson Nano) 용)
 링크 : https://github.com/toolboc/vscode/releases
+
+#젯슨나노 ubuntu2004 CUDA 설정 && YOLOv5 tensorRT 설정
+1. https://github.com/mailrocketsystems/CudaSetupUbuntu20
+2. 
+
 
 #젯슨나노에서 라즈베리카메라 사용하기
 링크 : https://jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/
