@@ -47,6 +47,7 @@ https://github.com/amirhosseinh77/JetsonYolo
 4. 네 번째 방법 https://whiteknight3672.tistory.com/316?category=723167 yolov5 사용하기
    #ROS로 YOLO 켜기
     1. YOLOV5 - https://velog.io/@katinon/ROS-2-Foxy%EC%97%90%EC%84%9C%EC%9D%98-YOLOv5-%EC%8B%A4%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C
+    2. YOLOV8 - https://github.com/mgonzs13/yolov8_ros
 
 #젯슨나노에 opencv 설치 (velog)
 1. https://velog.io/@tilkoas35/Jetson-Nano-openCV-%EC%84%A4%EC%B9%98
