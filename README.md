@@ -1,5 +1,5 @@
 # JetsonNano
-update : sudo apt-get update, sudo apt-get upgrade or sudo apt-get dist-upgrade
+update : sudo apt-get update, sudo apt-get upgrade and sudo apt-get dist-upgrade
 
 
 #젯슨나노 강의 유튜브 링크
