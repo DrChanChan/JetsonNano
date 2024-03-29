@@ -20,9 +20,8 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 # 젯슨나노에 vscode 설치하기 (Paul DeCarlo, github, ARM64 (Jetson Nano) 용)
 링크 : https://github.com/toolboc/vscode/releases
 
-#젯슨나노 ubuntu2004 CUDA 설정 && YOLOv5 tensorRT 설정
-1. https://github.com/mailrocketsystems/CudaSetupUbuntu20
-2. 
+#젯슨나노 ubuntu2004 CUDA, cudann 확인방법
+1. https://beelinekim.tistory.com/98
 
 
 #젯슨나노에서 라즈베리카메라 사용하기
