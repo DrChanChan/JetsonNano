@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=zzVi_26YhwY&list=PLU0UlMBWB-GsFmx8lWXaq9mLm4n9uI
 
 # 젯슨나노에 vscode 설치하기 (Paul DeCarlo, github, ARM64 (Jetson Nano) 용)
 링크 : https://github.com/toolboc/vscode/releases
+     #vscode 원격접속 방법 1. ssh 연결  2. jetson@(hostname -I)  3. 비밀번호
+     #vscode 원격접속 안될 때 : https://velog.io/@hong_journey/vscode-ssh-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%90%98%EB%8B%A4-%EC%95%88-%EB%90%A0%EB%95%8C
 
 #젯슨나노 ubuntu2004 CUDA, cudann 확인방법
 1. https://beelinekim.tistory.com/98
@@ -47,8 +49,7 @@ https://github.com/amirhosseinh77/JetsonYolo
 4. 네 번째 방법 https://whiteknight3672.tistory.com/316?category=723167 yolov5 사용하기
    #ROS로 YOLO 켜기
     1. YOLOV5 - https://velog.io/@katinon/ROS-2-Foxy%EC%97%90%EC%84%9C%EC%9D%98-YOLOv5-%EC%8B%A4%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C
-    2. YOLOV8 - https://github.com/mgonzs13/yolov8_ros 다음으로 https://developer-lionhong.tistory.com/44
-
+    2. YOLOV8 - https://github.com/mgonzs13/yolov8_ros 다음으로 c
 #젯슨나노에 opencv 설치 (velog)
 1. https://velog.io/@tilkoas35/Jetson-Nano-openCV-%EC%84%A4%EC%B9%98
 
