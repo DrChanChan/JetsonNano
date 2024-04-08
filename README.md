@@ -57,7 +57,8 @@ opencv, torch, torchvision, ultralytics 제외
 #젯슨나노에 opencv 설치 (velog)
 1. https://velog.io/@tilkoas35/Jetson-Nano-openCV-%EC%84%A4%EC%B9%98
 
-
+#ros2 패키지에 대하여
+1. https://intuitive-robotics.tistory.com/175#recentComments
 
 
 
