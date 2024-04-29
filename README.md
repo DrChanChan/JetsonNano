@@ -60,9 +60,10 @@ opencv, torch, torchvision, ultralytics 제외
 #ros2 패키지에 대하여
 1. https://intuitive-robotics.tistory.com/175#recentComments
 
-
-
-
+#Oak_d_lite 스테레오 카메라
+1. Oak_d_lite python : git clone https://github.com/iftahnaf/ros2_oak_d_lite.git
+2. 번외) depthai 라이브러리 : git clone https://github.com/luxonis/depthai.git
+3. dephai 라이브러리 설명 : https://robofoundry.medium.com/oak-d-lite-camera-basic-setup-38a563cd594f
 
 
 
