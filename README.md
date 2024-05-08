@@ -64,8 +64,7 @@ opencv, torch, torchvision, ultralytics 제외
 1. Oak_d_lite python : git clone https://github.com/iftahnaf/ros2_oak_d_lite.git
 2. 번외) depthai 라이브러리 : git clone https://github.com/luxonis/depthai.git
 3. dephai 라이브러리 설명 : https://robofoundry.medium.com/oak-d-lite-camera-basic-setup-38a563cd594f
-
-
+4. deohai AI : https://velog.io/@lcooldong/OpenCV-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%97%B0%EA%B2%B0-%EC%9E%91%EC%84%B1-%EC%A4%91
 
 
 
