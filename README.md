@@ -67,6 +67,10 @@ opencv, torch, torchvision, ultralytics 제외
 4. deohai AI : https://velog.io/@lcooldong/OpenCV-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%97%B0%EA%B2%B0-%EC%9E%91%EC%84%B1-%EC%A4%91
 5. .pt to .blob : https://tools.luxonis.com/
 
+#intell realsense 스테레오 카메라
+1. https://velog.io/@zzziito/Realsense-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+2. https://dev.intelrealsense.com/docs/python2 (공식 사이트)
+
 
 
 
